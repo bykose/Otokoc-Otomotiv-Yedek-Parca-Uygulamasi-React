@@ -1,0 +1,33 @@
+.container{
+  width: 83%;
+  border-right: 1px solid #000;
+  height: 100vh;
+}
+
+.containerDeactive{
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.15)
+}
+
+.basketMenu {
+  background-color: whitesmoke;
+  width: 500px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  right: -100%;
+  transition: 2000ms;
+}
+.basketMenuActive {
+  background-color: whitesmoke;
+  width: 500px;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  top: 10vh;
+  right: 0;
+  transition: 500ms;
+}

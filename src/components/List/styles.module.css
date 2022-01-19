@@ -1,0 +1,23 @@
+.table   {
+  width: 90%;
+  margin-left: 45px;
+  
+}
+
+.header{
+  background-color: #E2E8F0;
+  height: 40px;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.row{
+  font-size: 16px;
+  font-weight: 400;
+}
+ .input{
+   width: 81px;
+   height: 48px;
+   border: 1px solid #E2E8F0;
+   
+ }

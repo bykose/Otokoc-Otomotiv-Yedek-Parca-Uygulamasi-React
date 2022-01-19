@@ -1,0 +1,60 @@
+.kutu{
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  bottom: 10px;
+  left: 35%;
+}
+
+.paginationBttns {
+  width: 80%;
+  height: 40px;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+.paginationBttns a {
+  padding: 10px;
+  margin: 8px;
+  color: #fff;
+  cursor: pointer;
+}
+
+.paginationBttns a:hover {
+  
+  background-color: rgb(128, 128, 128);
+
+  color: white;
+  border-radius: 5px;
+}
+
+.paginationActive a {
+  
+  border: 1px solid #000;
+  border-radius: 5px;
+  color: white;
+  
+}
+.paginationActive a:hover {
+  
+  border: 1px solid #000;
+  border:1px solid rgb(128, 128, 128);
+  border-radius: 5px;
+  color: white;
+  
+}
+.previousBttn{
+  border-radius: 5px; 
+  text-decoration: none;
+  background-color: black;
+  color: #fff;
+}
+
+.nextBttn{
+  border-radius: 5px;
+  text-decoration: none;
+  background-color: black;
+  color: #fff;
+}

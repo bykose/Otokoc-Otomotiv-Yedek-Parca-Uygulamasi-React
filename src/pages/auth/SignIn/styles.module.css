@@ -1,0 +1,35 @@
+.signIn{
+  top: 100px;
+  display: inline;
+  justify-content: center;
+  text-align: center;
+}
+
+.signInLabel{
+  font-size: 24px;
+  font-weight: 900;
+
+}
+
+.signInForm{
+  top: 100px;
+  margin: 10px;
+
+}
+.signInButton{
+  margin-top: 10px;
+  background-color: #fff;
+  border: 0.5px solid #000;
+  width: 150px;
+  height: 48px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  left: 20px;
+}
+
+.input{
+  width: 463px;
+  height: 48px;
+  margin: 10px;
+}

@@ -1,0 +1,29 @@
+.nav{
+    padding: 14px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid 1px #e2e8f0;
+    line-height: 2px;
+    height: 10vh;
+}
+
+.loginButton{
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+    background-color: #fff;
+    border: 1px solid #000;
+}
+
+.registerButton{
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+    background-color: #fff;
+    border: 1px solid #000;
+}
+
+
+.logo{
+    margin: 20px;
+}
